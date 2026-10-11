@@ -1,0 +1,15 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.keystore
+
+# iOS
+ios/**/xcuserdata/
+ios/**/DerivedData/
+*.xcuserstate
+
+# Misc
+.DS_Store
