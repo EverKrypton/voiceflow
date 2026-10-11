@@ -51,8 +51,8 @@ by @ograinhard
 
 > Hi — submitting a design concept: **VoiceFlow**, a rework of Telegram voice messages.
 >
-> Demo video: <link>
-> Code (iOS SwiftUI · Android Compose · runnable web demo): <link>
+> Demo video: https://github.com/EverKrypton/voiceflow/blob/main/demo/voiceflow-demo.mp4
+> Code (iOS SwiftUI · Android Compose · runnable web demo): https://github.com/EverKrypton/voiceflow
 > Made by **@ograinhard** — happy to talk or hand over the source.
 >
 > The idea: the recording waveform is live and audio-reactive, then freezes into a scrubbable timeline with a word-synced transcript, haptic scrub, and a spring-loaded playback-speed pill. Everything you see is running code, not a mockup.
